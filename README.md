@@ -2,7 +2,7 @@
 Collaborative filtering algorithm to predict user ratings for products, based on previous ratings.
 
 ### What is the goal?
-Here I am sharing a python implementation of a collaborative filtering algorithm used to solve the Netflix problem.
+Here I am sharing a python implementation of a collaborative filtering algorithm used to solve the   [**Netflix problem**](https://en.wikipedia.org/wiki/Netflix_Prize).
 We have a bunch of users that we do not know anything about them except the ratings that they gave to some of the films in our list. We want to use just this information to predict their possible ratings to other movies in the list that they haven't rated so far.
 
 ### What is in this repository?
